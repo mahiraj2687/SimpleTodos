@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.list_item {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+.delete {
+  border-style: solid;
+  border-color: grey;
+  color: red;
+  border-radius: 30px;
+  width: 100px;
+  height: 50px;
+}
+.paragraph {
+  color: black;
+  font-size: 19px;
+}
